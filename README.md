@@ -24,13 +24,13 @@ These are published apps, separate from the source projects listed below. The tw
 
 | App | Google Play |
 |---|---|
-| Chess With AI — chess against AI and online play | [Install](https://play.google.com/store/apps/details?id=com.gr8.games.chess.chesswithai&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=chesswithai) |
-| Crazy Machines — physics and contraption puzzles | [Install](https://play.google.com/store/apps/details?id=com.gr8.games.crazymachines&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=crazymachines) |
-| Inkear — offline speech to text | [Install](https://play.google.com/store/apps/details?id=com.gr8.app.inkear&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=inkear) |
+| Chess With Sara: Learn & Play — Sara explains key moves by voice and in writing; 50,000 puzzles, online play, and 12 Stockfish levels | [Install](https://play.google.com/store/apps/details?id=com.gr8.games.chess.chesswithai&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=chesswithsara) |
+| Psycho Mechanics: Physics — build contraptions from mechanical parts and solve chain-reaction puzzles | [Install](https://play.google.com/store/apps/details?id=com.gr8.games.crazymachines&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=psychomechanics) |
+| Inkear: Offline Speech to Text — on-device Whisper transcription in about 99 languages | [Install](https://play.google.com/store/apps/details?id=com.gr8.app.inkear&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=inkear) |
 | Liquid Sort Puzzle | [Install](https://play.google.com/store/apps/details?id=com.gr8.games.liquidsortpuzzle&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=liquid-sort) |
 | Orvaleth: Clockwork Spires | [Install](https://play.google.com/store/apps/details?id=com.valkora.serenth.orvaleth&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=orvaleth) |
 
-The source projects for Liquid Sort Puzzle and Orvaleth are also available on [Codester](https://www.codester.com/items/64630/liquid-sort-puzzle-kotlin-android-game-template?ref=Gr8Man) and [Codester](https://www.codester.com/items/76144/orvaleth-godot-3d-clockwork-puzzle-game?ref=Gr8Man). See the [Android games landing page](https://simple-free-apps.github.io/android-games/) for chess AI and physics contraption puzzle discovery.
+Chess With Sara offers online games, arenas, Chess960, Hidden Queen, puzzle challenges and Sara's bilingual game reviews. Psycho Mechanics: Physics lets players place and rotate mechanical parts, build multi-solution physics machines, and experiment in a free-build workshop; its core game works offline. The source projects for Liquid Sort Puzzle and Orvaleth are also available on [Codester](https://www.codester.com/items/64630/liquid-sort-puzzle-kotlin-android-game-template?ref=Gr8Man) and [Codester](https://www.codester.com/items/76144/orvaleth-godot-3d-clockwork-puzzle-game?ref=Gr8Man). See the [Android games landing page](https://simple-free-apps.github.io/android-games/) for app details.
 
 ### Apps and source projects
 
@@ -126,4 +126,5 @@ Requires current stable Android Studio (or Gradle 9.6 / JDK 17 / Android SDK 37+
 
 ## License
 Distributed under the **ChromaCircuit Starter Evaluation & Learning License** ([LICENSE](LICENSE)). You may study, run, and build a single substantially customized app, **but you may not resell, redistribute, or republish this template as-is on code marketplaces or app stores**.
+
 
