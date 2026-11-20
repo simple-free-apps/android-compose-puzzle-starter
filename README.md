@@ -16,67 +16,6 @@ A clean, modern **5-Level Conduit Puzzle Game Starter** built 100% with **Kotlin
 
 ---
 
-## More from Simple Free Apps
-
-### Live published Android apps & games on Google Play
-
-These are published apps, separate from the source projects listed below. The two flagship games are free to play and include optional in-app purchases and ads. Their source code is not for sale.
-
-| App | Google Play |
-|---|---|
-| Chess With Sara: Learn & Play — Sara explains key moves by voice and in writing; 50,000 puzzles, online play, and 12 Stockfish levels | [Install](https://play.google.com/store/apps/details?id=com.gr8.games.chess.chesswithai&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=chesswithsara) |
-| Psycho Mechanics: Physics — build contraptions from mechanical parts and solve chain-reaction puzzles | [Install](https://play.google.com/store/apps/details?id=com.gr8.games.crazymachines&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=psychomechanics) |
-| Inkear: Offline Speech to Text — on-device Whisper transcription in about 99 languages | [Install](https://play.google.com/store/apps/details?id=com.gr8.app.inkear&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=inkear) |
-| Liquid Sort Puzzle | [Install](https://play.google.com/store/apps/details?id=com.gr8.games.liquidsortpuzzle&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=liquid-sort) |
-| Orvaleth: Clockwork Spires | [Install](https://play.google.com/store/apps/details?id=com.valkora.serenth.orvaleth&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=orvaleth) |
-
-Chess With Sara offers online games, arenas, Chess960, Hidden Queen, puzzle challenges and Sara's bilingual game reviews. Psycho Mechanics: Physics lets players place and rotate mechanical parts, build multi-solution physics machines, and experiment in a free-build workshop; its core game works offline. The source projects for Liquid Sort Puzzle and Orvaleth are also available on [Codester](https://www.codester.com/items/64630/liquid-sort-puzzle-kotlin-android-game-template?ref=Gr8Man) and [Codester](https://www.codester.com/items/76144/orvaleth-godot-3d-clockwork-puzzle-game?ref=Gr8Man). See the [Android games landing page](https://simple-free-apps.github.io/android-games/) for app details.
-
-### Apps and source projects
-
-Browse the [Simple Free Apps catalog](https://simple-free-apps.github.io/?utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=catalog) for the free starter, Android game source projects, and bundles. It links four Payhip products and ten Codester items:
-
-| Project | Store |
-|---|---|
-| Kivorivane | [Payhip](https://payhip.com/b/WsHQp) · [Codester](https://www.codester.com/items/76093/kivorivane-1000-levels-kite-escape-kotlin?ref=Gr8Man) |
-| Veyravel | [Payhip](https://payhip.com/b/Jv6fL) · [Codester](https://www.codester.com/items/76079/veyravel-3d-android-action-game-godot?ref=Gr8Man) |
-| Orvaleth: Clockwork Spires | [Payhip](https://payhip.com/b/hWmcv) · [Codester](https://www.codester.com/items/76144/orvaleth-godot-3d-clockwork-puzzle-game?ref=Gr8Man) |
-| Puzzle Pack 5-in-1 | [Payhip](https://payhip.com/b/beFfj) · [Codester](https://www.codester.com/items/76186/puzzle-pack-5-in-1-kotlin-android-game-bundle?ref=Gr8Man) |
-| Liquid Sort Puzzle | [Codester](https://www.codester.com/items/64630/liquid-sort-puzzle-kotlin-android-game-template?ref=Gr8Man) |
-| Zelquavex | [Codester](https://www.codester.com/items/76106/zelquavex-1-200-circuit-puzzles-android?ref=Gr8Man) |
-| Tessavora | [Codester](https://www.codester.com/items/76001/tessavora-mosaic-puzzle-android-game?ref=Gr8Man) |
-| PillarGlide | [Codester](https://www.codester.com/items/75998/pillarglide-tactical-slide-game-kotlin?ref=Gr8Man) |
-| LanternLoom | [Codester](https://www.codester.com/items/75956/lanternloom-light-path-puzzle-game-for-android?ref=Gr8Man) |
-| Trelovix | [Codester](https://www.codester.com/items/76112/trelovix-500-levels-block-puzzle-kotlin?ref=Gr8Man) |
-
-Store listings control their current availability, price, and license terms. Some links may be affiliate links; any affiliate relationship should be disclosed on the destination page.
-
-### Inkear offline transcription
-
-[Inkear: Offline Speech to Text](https://play.google.com/store/apps/details?id=com.gr8.app.inkear&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=inkear) is a separate Android app for on-device English and Arabic transcription. The publisher describes no cloud upload and no monthly subscription. Its regional one-time price is shown in Google Play and may change.
-
-### Google Play publishing assistance
-
-For eligible, policy-compliant apps and active developer accounts, [ask about the $45 publishing and transfer assistance service](https://simple-free-apps.github.io/play-publish/?utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=publishing-service). This service does not bypass testing, production-access requirements, account eligibility checks, or Google review; eligibility is checked first and no approval or timing is guaranteed. Certain newly created personal accounts must meet Google's closed-testing requirement before applying for production access.
-
-### Suggested Awesome-list submissions
-
-These are draft suggestions, not claims that a PR has been accepted. Confirm each repository's current contribution instructions before submitting.
-
-**androiddevnotes/awesome-jetpack-compose-android-apps** — proposed section: Games / Open-source projects
-
-> **ChromaCircuit Starter** — A free five-level Android conduit puzzle game starter built with Kotlin and Jetpack Compose. Includes English and Arabic RTL support, procedural Canvas visuals and sound, and ad-free / test-ad build flavors. [Source and APK](https://github.com/simple-free-apps/android-compose-puzzle-starter).
-
-**jetpack-compose/jetpack-compose-awesome** — proposed section: Apps / Games
-
-> [ChromaCircuit Starter](https://github.com/simple-free-apps/android-compose-puzzle-starter) — Open-source Kotlin and Jetpack Compose conduit puzzle starter with five playable levels, Arabic RTL localization, and procedural visuals.
-
-**Heapy/awesome-kotlin** — proposed section: Android projects
-
-> [ChromaCircuit Starter](https://github.com/simple-free-apps/android-compose-puzzle-starter) — Kotlin + Jetpack Compose Android puzzle game starter; five levels, English/Arabic UI, and two build flavors.
-
----
-
 ## Screenshots
 
 | Home & Level Select | Active Puzzle & Hint | Victory Dialog |
@@ -105,7 +44,7 @@ Requires current stable Android Studio (or Gradle 9.6 / JDK 17 / Android SDK 37+
 
 ---
 
-## Starter vs. Full Commercial Pack (Puzzle Pack 5-in-1 — $12)
+## Starter vs. Full Commercial Pack (Soravel: Puzzle Pack 5-in-1 — $12)
 
 > **Verified test evidence:** the commercial Puzzle Pack passed 57/57 unit tests, with QA across three Android device profiles. This free starter is a separate five-level sample and its included `PuzzleEngineTest.kt` covers its own five levels.
 
@@ -116,15 +55,48 @@ Requires current stable Android Studio (or Gradle 9.6 / JDK 17 / Android SDK 37+
 | **Audio** | Procedural Kotlin PCM Beeps | **34 Commercial-Plan In-App `.ogg` SFX & Music** (`CREDITS.md` terms) |
 | **Verification** | JUnit Starter Tests | **57/57 Verified Unit Tests** + Multi-Device Redroid QA |
 | **Reskin Docs** | README Quick Start | **Complete Offline EN & AR HTML Reskin Guides** |
-| **Price** | Free (Non-Resale Starter) | **$12 Instant Download on Payhip** ([Get the full pack](https://payhip.com/b/beFfj?utm_source=github&utm_medium=readme&utm_campaign=chromacircuit_starter)) |
+| **Price** | Free (Evaluation Starter) | **$12 Instant Download on Payhip** ([Get the full pack](https://payhip.com/b/beFfj?utm_source=github&utm_medium=readme&utm_campaign=chromacircuit_starter)) |
 
-**Live Published Android Demos (from our catalog on Google Play):**
-- [Liquid Sort Puzzle on Google Play](https://play.google.com/store/apps/details?id=com.gr8.games.liquidsortpuzzle&utm_source=github&utm_medium=readme&utm_campaign=chromacircuit_starter)
-- [Orvaleth: Clockwork Spires on Google Play](https://play.google.com/store/apps/details?id=com.valkora.serenth.orvaleth&utm_source=github&utm_medium=readme&utm_campaign=chromacircuit_starter)
+---
+
+## More from Gr8 Apps & Games Studio
+
+### Live Published Android Apps & Games on Google Play
+
+These are standalone published apps (their source code is not offered for sale; the flagship games are free to play with optional in-app purchases and ads):
+
+| App | Google Play |
+|---|---|
+| **Chess With Sara: Learn & Play** — Sara explains key moves by voice and text in EN/AR; 50,000 puzzles, online arenas, Chess960 & 12 Stockfish 18 levels | [Install](https://play.google.com/store/apps/details?id=com.gr8.games.chess.chesswithai&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=chesswithsara) |
+| **Psycho Mechanics: Physics** — build chain-reaction machines with ramps, gears, magnets & a sandbox workshop (works offline) | [Install](https://play.google.com/store/apps/details?id=com.gr8.games.crazymachines&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=psychomechanics) |
+| **Inkear: Offline Speech to Text** — on-device Whisper transcription in ~99 languages, one-time purchase, zero cloud upload | [Install](https://play.google.com/store/apps/details?id=com.gr8.app.inkear&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=inkear) |
+| **Liquid Sort Puzzle** — fluid sorting puzzle with hidden layers & keyed flasks | [Install](https://play.google.com/store/apps/details?id=com.gr8.games.liquidsortpuzzle&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=liquid-sort) |
+| **Orvaleth: Clockwork Spires** — 60 3D clockwork contraption levels | [Install](https://play.google.com/store/apps/details?id=com.valkora.serenth.orvaleth&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=orvaleth) |
+
+Explore the interactive **[Android games landing page](https://simple-free-apps.github.io/android-games/)** or the full **[Gr8 Studio catalog](https://simple-free-apps.github.io/?utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=catalog)**.
+
+### Commercial Source Kits (Payhip & Codester)
+
+| Project | Stack | Store Links |
+|---|---|---|
+| Soravel: Puzzle Pack 5-in-1 | Kotlin / Compose | [Payhip · $12](https://payhip.com/b/beFfj) · [Codester · $14](https://www.codester.com/items/76186/puzzle-pack-5-in-1-kotlin-android-game-bundle?ref=Gr8Man) |
+| Orvaleth: Clockwork Spires | Godot 4 / 3D | [Payhip · $9](https://payhip.com/b/hWmcv) · [Codester · $14](https://www.codester.com/items/76144/orvaleth-godot-3d-clockwork-puzzle-game?ref=Gr8Man) |
+| Kivorivane (1,200 Levels) | Kotlin / Compose | [Payhip · $9](https://payhip.com/b/WsHQp) · [Codester · $14](https://www.codester.com/items/76093/kivorivane-1000-levels-kite-escape-kotlin?ref=Gr8Man) |
+| Veyravel (Action Roguelite) | Godot 4 / 3D | [Payhip · $9](https://payhip.com/b/Jv6fL) · [Codester · $14](https://www.codester.com/items/76079/veyravel-3d-android-action-game-godot?ref=Gr8Man) |
+| Liquid Sort Puzzle | Kotlin / Compose | [Codester · $14](https://www.codester.com/items/64630/liquid-sort-puzzle-kotlin-android-game-template?ref=Gr8Man) |
+| Zelquavex (ArrowEscape, 1,200) | Kotlin / Compose | [Codester · $14](https://www.codester.com/items/76106/zelquavex-1-200-circuit-puzzles-android?ref=Gr8Man) |
+| Trelovix (NeonBlocks, 500) | Kotlin / Compose | [Codester · $14](https://www.codester.com/items/76112/trelovix-500-levels-block-puzzle-kotlin?ref=Gr8Man) |
+| Tessavora (Mosaic, 120) | Kotlin / Compose | [Codester · $14](https://www.codester.com/items/76001/tessavora-mosaic-puzzle-android-game?ref=Gr8Man) |
+| PillarGlide (Slide + AI Duels) | Kotlin / Compose | [Codester · $14](https://www.codester.com/items/75998/pillarglide-tactical-slide-game-kotlin?ref=Gr8Man) |
+| LanternLoom (Light-Path) | Kotlin / Compose | [Codester · $14](https://www.codester.com/items/75956/lanternloom-light-path-puzzle-game-for-android?ref=Gr8Man) |
+
+*Disclosure: Codester links above include the publisher's `?ref=Gr8Man` referral parameter, which may earn a referral commission at no extra cost to buyers. Store pages are authoritative for pricing, availability, and license terms.*
+
+### Google Play Publishing Assistance ($45)
+
+For eligible, policy-compliant Android apps and active developer accounts, [read the eligibility criteria for assisted publishing and app transfer](https://simple-free-apps.github.io/play-publish/?utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=publishing-service). This service never bypasses closed testing (e.g., Google's 12-tester / 14-day requirement on applicable personal accounts), developer verification, or Google Play review.
 
 ---
 
 ## License
 Distributed under the **ChromaCircuit Starter Evaluation & Learning License** ([LICENSE](LICENSE)). You may study, run, and build a single substantially customized app, **but you may not resell, redistribute, or republish this template as-is on code marketplaces or app stores**.
-
-
