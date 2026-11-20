@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChromaCircuit Starter</string>
+    <string name="app_subtitle">5-Level Compose Puzzle Template</string>
+    <string name="starter_badge">STARTER EDITION · 5 LEVELS</string>
+    <string name="play_continue">Continue Level %1$d</string>
+    <string name="play_start">Play Level 1</string>
+    <string name="level_select_title">Select Circuit (%1$d / 5 Solved)</string>
+    <string name="level_card_title">Level %1$d</string>
+    <string name="level_locked">Locked</string>
+    <string name="level_par">Par %1$d</string>
+    <string name="level_best">Best: %1$d</string>
+    <string name="hud_level">Level %1$d / 5</string>
+    <string name="hud_moves">Moves: %1$d</string>
+    <string name="hud_par">Par: %1$d</string>
+    <string name="action_undo">Undo</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_hint">Hint</string>
+    <string name="action_back">Back</string>
+    <string name="cd_sound_on">Sound enabled</string>
+    <string name="cd_sound_off">Sound muted</string>
+    <string name="cd_language">Switch language</string>
+    <string name="lang_label">AR / EN</string>
+    <string name="board_instruction">Tap any conduit tile to rotate 90° and power every amber beacon.</string>
+    <string name="victory_title">Circuit Powered!</string>
+    <string name="victory_summary">Solved in %1$d moves (Par %2$d)</string>
+    <string name="victory_stars">%1$d / 3 Stars</string>
+    <string name="victory_next">Next Level</string>
+    <string name="victory_all_done">Starter Pack Complete! All 5 circuits energized.</string>
+    <string name="victory_replay">Replay</string>
+    <string name="victory_home">All Levels</string>
+    <string name="flavor_badge_noads">Flavor: noAds (Offline)</string>
+    <string name="flavor_badge_withads">Flavor: withAds (Google Test IDs)</string>
+    <string name="audio_badge">Audio: 100% Kotlin PCM AudioTrack</string>
+    <string name="hint_reward_ready">BFS Hint highlighted on board</string>
+    <string name="level_1_name">First Spark</string>
+    <string name="level_2_name">Split Current</string>
+    <string name="level_3_name">Dual Relay</string>
+    <string name="level_4_name">Cross Matrix</string>
+    <string name="level_5_name">Grand Conduit</string>
+</resources>

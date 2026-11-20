@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مبدئ المسارات الضوئية</string>
+    <string name="app_subtitle">قالب ألغاز Compose من 5 مراحل</string>
+    <string name="starter_badge">نسخة البداية · 5 مراحل</string>
+    <string name="play_continue">متابعة المرحلة %1$d</string>
+    <string name="play_start">ابدأ المرحلة 1</string>
+    <string name="level_select_title">اختر المرحلة (%1$d / 5 مكتملة)</string>
+    <string name="level_card_title">المرحلة %1$d</string>
+    <string name="level_locked">مغلق</string>
+    <string name="level_par">الهدف %1$d</string>
+    <string name="level_best">الأفضل: %1$d</string>
+    <string name="hud_level">المرحلة %1$d / 5</string>
+    <string name="hud_moves">الخطوات: %1$d</string>
+    <string name="hud_par">الهدف: %1$d</string>
+    <string name="action_undo">تراجع</string>
+    <string name="action_reset">إعادة</string>
+    <string name="action_hint">تلميح</string>
+    <string name="action_back">رجوع</string>
+    <string name="cd_sound_on">الصوت مفعّل</string>
+    <string name="cd_sound_off">الصوت مكتوم</string>
+    <string name="cd_language">تبديل اللغة</string>
+    <string name="lang_label">AR / EN</string>
+    <string name="board_instruction">المس أي وصلة لتدويرها 90 درجة وإيصال الطاقة إلى جميع المنارات الذهبية.</string>
+    <string name="victory_title">اكتملت الدائرة!</string>
+    <string name="victory_summary">تم الحل في %1$d خطوة (الهدف %2$d)</string>
+    <string name="victory_stars">%1$d / 3 نجوم</string>
+    <string name="victory_next">المرحلة التالية</string>
+    <string name="victory_all_done">أنهيت نسخة البداية بالكامل! كل المراحل الخمس مضاءة.</string>
+    <string name="victory_replay">إعادة اللعب</string>
+    <string name="victory_home">كل المراحل</string>
+    <string name="flavor_badge_noads">نسخة: noAds (دون إنترنت أو إعلانات)</string>
+    <string name="flavor_badge_withads">نسخة: withAds (معرفات اختبار جوجل)</string>
+    <string name="audio_badge">الصوت: توليد برمجي 100% بـ AudioTrack</string>
+    <string name="hint_reward_ready">تم تمييز الخطوة التالية بمساعد الحل BFS</string>
+    <string name="level_1_name">الشرارة الأولى</string>
+    <string name="level_2_name">تفرّع التيار</string>
+    <string name="level_3_name">المرحل المزدوج</string>
+    <string name="level_4_name">مصفوفة التقاطع</string>
+    <string name="level_5_name">المسار الأعظم</string>
+</resources>

@@ -1,0 +1,1 @@
+# Keep essential app rules

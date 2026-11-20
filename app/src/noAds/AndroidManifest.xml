@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Pure offline ad-free flavor: no INTERNET or AD_ID permissions -->
+</manifest>
