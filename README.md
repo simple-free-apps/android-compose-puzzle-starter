@@ -24,8 +24,10 @@ A clean, modern **5-Level Conduit Puzzle Game Starter** built 100% with **Kotlin
 
 ---
 
-## Try the Prebuilt APK
-Download the ready-to-install debug APK directly from the **[Releases](https://github.com/simple-free-apps/android-compose-puzzle-starter/releases)** tab (`ChromaCircuitStarter-noAds-debug.apk`).
+## Try the Live Demos & Prebuilt APK
+- **[Play Interactive Puzzle Demos in Your Browser](https://simple-free-apps.github.io/demo/?utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=live_demo)** (Liquid Sort, LanternLoom optical beams, Kivorivane kite escape)
+- Download the ready-to-install debug APK from **[Releases](https://github.com/simple-free-apps/android-compose-puzzle-starter/releases)** (`ChromaCircuitStarter-noAds-debug.apk`).
+- Want the standalone MIT audio synthesizer used in this pattern? See **[compose-pcm-sfx (MIT)](https://github.com/simple-free-apps/compose-pcm-sfx)**.
 
 ---
 
