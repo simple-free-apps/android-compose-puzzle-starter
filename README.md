@@ -46,7 +46,7 @@ Requires current stable Android Studio (or Gradle 9.6 / JDK 17 / Android SDK 37+
 
 ---
 
-## Starter vs. Full Commercial Pack (Soravel: Puzzle Pack 5-in-1 — $12)
+## Starter vs. Full Commercial Pack (Soravel: Puzzle Pack 5-in-1 — $14 on Codester)
 
 > **Verified test evidence:** the commercial Puzzle Pack passed 57/57 unit tests, with QA across three Android device profiles. This free starter is a separate five-level sample and its included `PuzzleEngineTest.kt` covers its own five levels.
 
@@ -57,7 +57,7 @@ Requires current stable Android Studio (or Gradle 9.6 / JDK 17 / Android SDK 37+
 | **Audio** | Procedural Kotlin PCM Beeps | **34 Commercial-Plan In-App `.ogg` SFX & Music** (`CREDITS.md` terms) |
 | **Verification** | JUnit Starter Tests | **57/57 Verified Unit Tests** + Multi-Device Redroid QA |
 | **Reskin Docs** | README Quick Start | **Complete Offline EN & AR HTML Reskin Guides** |
-| **Price** | Free (Evaluation Starter) | **$12 Instant Download on Payhip** ([Get the full pack](https://payhip.com/b/beFfj?utm_source=github&utm_medium=readme&utm_campaign=chromacircuit_starter)) |
+| **Price** | Free (Evaluation Starter) | **$14 on Codester** ([Get the full pack](https://www.codester.com/items/76186/puzzle-pack-5-in-1-kotlin-android-game-bundle?ref=Gr8Man)) |
 
 ---
 
@@ -77,14 +77,14 @@ These are standalone published apps (their source code is not offered for sale; 
 
 Explore the interactive **[Android games landing page](https://simple-free-apps.github.io/android-games/)** or the full **[Gr8 Studio catalog](https://simple-free-apps.github.io/?utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=catalog)**.
 
-### Commercial Source Kits (Payhip & Codester)
+### Commercial Source Kits (Codester)
 
 | Project | Stack | Store Links |
 |---|---|---|
-| Soravel: Puzzle Pack 5-in-1 | Kotlin / Compose | [Payhip · $12](https://payhip.com/b/beFfj) · [Codester · $14](https://www.codester.com/items/76186/puzzle-pack-5-in-1-kotlin-android-game-bundle?ref=Gr8Man) |
-| Orvaleth: Clockwork Spires | Godot 4 / 3D | [Payhip · $9](https://payhip.com/b/hWmcv) · [Codester · $14](https://www.codester.com/items/76144/orvaleth-godot-3d-clockwork-puzzle-game?ref=Gr8Man) |
-| Kivorivane (1,200 Levels) | Kotlin / Compose | [Payhip · $9](https://payhip.com/b/WsHQp) · [Codester · $14](https://www.codester.com/items/76093/kivorivane-1000-levels-kite-escape-kotlin?ref=Gr8Man) |
-| Veyravel (Action Roguelite) | Godot 4 / 3D | [Payhip · $9](https://payhip.com/b/Jv6fL) · [Codester · $14](https://www.codester.com/items/76079/veyravel-3d-android-action-game-godot?ref=Gr8Man) |
+| Soravel: Puzzle Pack 5-in-1 | Kotlin / Compose | [Codester · $14](https://www.codester.com/items/76186/puzzle-pack-5-in-1-kotlin-android-game-bundle?ref=Gr8Man) |
+| Orvaleth: Clockwork Spires | Godot 4 / 3D | [Codester · $14](https://www.codester.com/items/76144/orvaleth-godot-3d-clockwork-puzzle-game?ref=Gr8Man) |
+| Kivorivane (1,200 Levels) | Kotlin / Compose | [Codester · $14](https://www.codester.com/items/76093/kivorivane-1000-levels-kite-escape-kotlin?ref=Gr8Man) |
+| Veyravel (Action Roguelite) | Godot 4 / 3D | [Codester · $14](https://www.codester.com/items/76079/veyravel-3d-android-action-game-godot?ref=Gr8Man) |
 | Liquid Sort Puzzle | Kotlin / Compose | [Codester · $14](https://www.codester.com/items/64630/liquid-sort-puzzle-kotlin-android-game-template?ref=Gr8Man) |
 | Zelquavex (ArrowEscape, 1,200) | Kotlin / Compose | [Codester · $14](https://www.codester.com/items/76106/zelquavex-1-200-circuit-puzzles-android?ref=Gr8Man) |
 | Trelovix (NeonBlocks, 500) | Kotlin / Compose | [Codester · $14](https://www.codester.com/items/76112/trelovix-500-levels-block-puzzle-kotlin?ref=Gr8Man) |
@@ -93,10 +93,6 @@ Explore the interactive **[Android games landing page](https://simple-free-apps.
 | LanternLoom (Light-Path) | Kotlin / Compose | [Codester · $14](https://www.codester.com/items/75956/lanternloom-light-path-puzzle-game-for-android?ref=Gr8Man) |
 
 *Disclosure: Codester links above include the publisher's `?ref=Gr8Man` referral parameter, which may earn a referral commission at no extra cost to buyers. Store pages are authoritative for pricing, availability, and license terms.*
-
-### Google Play Publishing Assistance ($45)
-
-For eligible, policy-compliant Android apps and active developer accounts, [read the eligibility criteria for assisted publishing and app transfer](https://simple-free-apps.github.io/play-publish/?utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=publishing-service). This service never bypasses closed testing (e.g., Google's 12-tester / 14-day requirement on applicable personal accounts), developer verification, or Google Play review.
 
 ---
 
