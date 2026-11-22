@@ -48,14 +48,14 @@ Requires current stable Android Studio (or Gradle 9.6 / JDK 17 / Android SDK 37+
 
 ## Starter vs. Full Commercial Pack (Soravel: Puzzle Pack 5-in-1 — $14 on Codester)
 
-> **Verified test evidence:** the commercial Puzzle Pack passed 57/57 unit tests, with QA across three Android device profiles. This free starter is a separate five-level sample and its included `PuzzleEngineTest.kt` covers its own five levels.
+> **Verified test evidence:** the commercial Puzzle Pack passed 54/54 unit tests, with QA across three Android device profiles. This free starter is a separate five-level sample and its included `PuzzleEngineTest.kt` covers its own five levels.
 
 | Feature | ChromaCircuit Starter (This Repo) | Soravel: Puzzle Pack 5-in-1 (Full Studio Kit) |
 |---|---|---|
 | **Included Games** | 1 Sample Mechanic | **5 Full Distinct Puzzle Games** (LanternLoom, PillarGlide, Tessavora, Kivorivane, Trelovix) |
 | **Total Levels** | 5 Curated Levels | **1,928+ Campaign Levels** + Endless, Daily, Workshop & AI Duel |
 | **Audio** | Procedural Kotlin PCM Beeps | **34 Commercial-Plan In-App `.ogg` SFX & Music** (`CREDITS.md` terms) |
-| **Verification** | JUnit Starter Tests | **57/57 Verified Unit Tests** + Multi-Device Redroid QA |
+| **Verification** | JUnit Starter Tests | **54/54 Verified Unit Tests** + Multi-Device Redroid QA |
 | **Reskin Docs** | README Quick Start | **Complete Offline EN & AR HTML Reskin Guides** |
 | **Price** | Free (Evaluation Starter) | **$14 on Codester** ([Get the full pack](https://www.codester.com/items/76186/puzzle-pack-5-in-1-kotlin-android-game-bundle?ref=Gr8Man)) |
 
