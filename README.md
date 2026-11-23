@@ -74,18 +74,25 @@ These are standalone published apps (their source code is not offered for sale; 
 | **Inkear: Offline Speech to Text** — on-device Whisper transcription in ~99 languages, one-time purchase, zero cloud upload | [Install](https://play.google.com/store/apps/details?id=com.gr8.app.inkear&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=inkear) |
 | **Liquid Sort Puzzle** — fluid sorting puzzle with hidden layers & keyed flasks | [Install](https://play.google.com/store/apps/details?id=com.gr8.games.liquidsortpuzzle&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=liquid-sort) |
 | **Orvaleth: Clockwork Spires** — 60 3D clockwork contraption levels | [Install](https://play.google.com/store/apps/details?id=com.valkora.serenth.orvaleth&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=orvaleth) |
+| **Tessavora: Mosaic Puzzle** — 120 ceramic mosaic boards + 7x7 designer | [Install](https://play.google.com/store/apps/details?id=com.dralvoni.senvarek.tessavora&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=tessavora) |
+| **PillarGlide: Tactical Slide** — 60 levels + Minimax AI duels | [Install](https://play.google.com/store/apps/details?id=com.brimavel.noruvik.pillarglide&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=pillarglide) |
+| **LanternLoom: Light Path** — 48 optical conduit puzzles + hints | [Install](https://play.google.com/store/apps/details?id=com.tavrolin.quemsy.lanternloom&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=lanternloom) |
+| **Kivorivane: Kite Escape** — 1,200 directional kite puzzles | [Install](https://play.google.com/store/apps/details?id=com.mirveki.savureth.kivorivane&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=kivorivane) |
+| **Trelovix: Prism Grid** — 500 levels + Blitz + Daily Challenge | [Install](https://play.google.com/store/apps/details?id=com.vornalix.zelvarok.trelovix&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=trelovix) |
+| **Zelquavex: Circuit Slide** — 1,200 relay circuit puzzles | [Install](https://play.google.com/store/apps/details?id=com.vorqali.nexumir.zelquavex&utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=zelquavex) |
+| **All 19 Live Google Play Apps** — full studio store (apps & games) | [Google Play Store](https://play.google.com/store/apps/dev?id=7078150569870376778) |
 
-Explore the interactive **[Android games landing page](https://simple-free-apps.github.io/android-games/)** or the full **[Gr8 Studio catalog](https://simple-free-apps.github.io/?utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=catalog)**.
+Explore the **[10 Source Kits Comparison & FAQ](https://simple-free-apps.github.io/source-kits/?utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=matrix)**, **[Android games landing page](https://simple-free-apps.github.io/android-games/)**, or full **[Gr8 Studio catalog](https://simple-free-apps.github.io/?utm_source=android-compose-puzzle-starter&utm_medium=readme&utm_campaign=catalog)**.
 
-### Commercial Source Kits (Codester)
+### Commercial Source Kits (Codester & SellAnyCode)
 
 | Project | Stack | Store Links |
 |---|---|---|
-| Soravel: Puzzle Pack 5-in-1 | Kotlin / Compose | [Codester · $14](https://www.codester.com/items/76186/puzzle-pack-5-in-1-kotlin-android-game-bundle?ref=Gr8Man) |
-| Orvaleth: Clockwork Spires | Godot 4 / 3D | [Codester · $14](https://www.codester.com/items/76144/orvaleth-godot-3d-clockwork-puzzle-game?ref=Gr8Man) |
+| Soravel: Puzzle Pack 5-in-1 | Kotlin / Compose | [Codester · $14](https://www.codester.com/items/76186/puzzle-pack-5-in-1-kotlin-android-game-bundle?ref=Gr8Man) · [SellAnyCode · $29](https://www.sellanycode.com/item.php?id=28630) |
+| Orvaleth: Clockwork Spires | Godot 4 / 3D | [Codester · $14](https://www.codester.com/items/76144/orvaleth-godot-3d-clockwork-puzzle-game?ref=Gr8Man) · [SellAnyCode · $20](https://www.sellanycode.com/item.php?id=28633) |
 | Kivorivane (1,200 Levels) | Kotlin / Compose | [Codester · $14](https://www.codester.com/items/76093/kivorivane-1000-levels-kite-escape-kotlin?ref=Gr8Man) |
-| Veyravel (Action Roguelite) | Godot 4 / 3D | [Codester · $14](https://www.codester.com/items/76079/veyravel-3d-android-action-game-godot?ref=Gr8Man) |
-| Liquid Sort Puzzle | Kotlin / Compose | [Codester · $14](https://www.codester.com/items/64630/liquid-sort-puzzle-kotlin-android-game-template?ref=Gr8Man) |
+| Veyravel (Action Roguelite) | Godot 4 / 3D | [Codester · $14](https://www.codester.com/items/76079/veyravel-3d-android-action-game-godot?ref=Gr8Man) · [SellAnyCode · $20](https://www.sellanycode.com/item.php?id=28634) |
+| Liquid Sort Puzzle | Kotlin / Compose | [Codester · $14](https://www.codester.com/items/64630/liquid-sort-puzzle-kotlin-android-game-template?ref=Gr8Man) · [SellAnyCode · $20](https://www.sellanycode.com/item.php?id=28631) |
 | Zelquavex (ArrowEscape, 1,200) | Kotlin / Compose | [Codester · $14](https://www.codester.com/items/76106/zelquavex-1-200-circuit-puzzles-android?ref=Gr8Man) |
 | Trelovix (NeonBlocks, 500) | Kotlin / Compose | [Codester · $14](https://www.codester.com/items/76112/trelovix-500-levels-block-puzzle-kotlin?ref=Gr8Man) |
 | Tessavora (Mosaic, 120) | Kotlin / Compose | [Codester · $14](https://www.codester.com/items/76001/tessavora-mosaic-puzzle-android-game?ref=Gr8Man) |
